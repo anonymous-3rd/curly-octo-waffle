@@ -12,9 +12,6 @@ NB: All I did to see this is
 * git bash the folder
 * git clone the-copied-link
 
-* run git init
-* git pull http://github.com/the-link-you-provided
-
 But in order to make changes and push to the same linked repo, I just
 
 * made changes to the readme
